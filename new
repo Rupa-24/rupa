@@ -1,0 +1,69 @@
+<section className="forth C" id="s">
+                    <h1 id="head">Skills</h1>
+                    <section className="scroll-container ">
+                        <section className="third">
+                            <div><img src="https://tse4.mm.bing.net/th?id=OIP.WeX8Uvgs4gxgeVRGvJR7aQHaDt&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                            <div><img src="https://tse2.mm.bing.net/th?id=OIP.Cqt6j3TVGiYzPIwcrii1_gHaDt&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                            <div><img src="https://tse4.mm.bing.net/th?id=OIP.Z7oz-UE96cn06LU5Uid04gHaEK&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                            <div><img src="https://tse1.mm.bing.net/th?id=OIP.Wgg91--ZlJ6sDoPijRwbBwHaEd&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                            <div><img src="https://tse4.mm.bing.net/th?id=OIP.S_9pgiKacbi3FxPKxDmusgHaFy&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                        </section>
+                    </section>
+                </section>
+
+
+
+
+                <section className="forth C" id="s">
+                    <h1 id="head">Skills</h1>
+                    <section className="scroll-container ">
+                        <section className="third">
+                            <div><div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                        </section>
+                    </section>
+                </section>
+
+
+
+
+                <section className="forth C" id="s">
+                    <h1 id="head">Skills</h1>
+                    <section className="scroll-container ">
+                        <section className="third">
+                            <div><img src="https://tse4.mm.bing.net/th?id=OIP.WeX8Uvgs4gxgeVRGvJR7aQHaDt&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                            <div><img src="https://tse2.mm.bing.net/th?id=OIP.Cqt6j3TVGiYzPIwcrii1_gHaDt&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                            <div><img src="https://tse4.mm.bing.net/th?id=OIP.Z7oz-UE96cn06LU5Uid04gHaEK&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                            <div><img src="https://tse1.mm.bing.net/th?id=OIP.Wgg91--ZlJ6sDoPijRwbBwHaEd&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                            <div><img src="https://tse4.mm.bing.net/th?id=OIP.S_9pgiKacbi3FxPKxDmusgHaFy&pid=Api&P=0&h=180.jpg" alt="" /></div>
+                        </section>
+                    </section>
+                </section>
